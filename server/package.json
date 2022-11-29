@@ -1,0 +1,25 @@
+{
+  "name": "proyectofinalweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "build": "cd client && npm install && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shatbai/Proyectofinalweb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shatbai/Proyectofinalweb/issues"
+  },
+  "homepage": "https://github.com/Shatbai/Proyectofinalweb#readme",
+  "engines": {
+    "node": "v16.14.0"
+  }
+}

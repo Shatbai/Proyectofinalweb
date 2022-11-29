@@ -1,7 +1,7 @@
 import React from "react";
 
 const valorPorDefecto = {
-  name: "",
+  name: "No hay frase nueva",
   setName: () => {}
 };
 const contexto = React.createContext(valorPorDefecto);

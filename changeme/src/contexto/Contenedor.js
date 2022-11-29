@@ -3,7 +3,7 @@ import Context from "./contexto"
 
 
 const valorPorDefecto = {
-  name: "",
+  name: "No hay frase nueva",
   setName: name => (valorPorDefecto.name=name)
 };
 
